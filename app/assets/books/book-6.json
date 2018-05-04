@@ -1,0 +1,22 @@
+{
+    "price": 16,
+   
+    "description": "That's the question Greg Heffley is asking as his town voluntarily unplugs and goes electronics-free. But modern life has its conveniences, and Greg isn't cut out for an old-fashioned world. With tension building inside and outside the Heffley home, will Greg find a way to survive? Or is going 'old school' just too hard for a kid like Greg?", 
+    
+    "id": "book-6", 
+    "images": [
+         "img/books/book-6.jpg", 
+        "img/books/book-6-1.jpg", 
+         
+        "img/books/book-6-2.jpg"
+    ], 
+    "name": "Old School", 
+
+    "isbn": "9780141364728",
+
+    "publisher": "Puffin",
+
+    "date": "11/3/2015",   
+
+    "category": "Fiction 9 to 12 Years, Teenage Fiction 12 to 15 Years"
+}

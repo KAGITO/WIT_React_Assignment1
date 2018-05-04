@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Weitong",
+      "email": "244515121@qq.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "KAGITO",
+      "email": "kagito@qq.com",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "name": "Xia",
+      "email": "jjwood@qq.com",
+      "password": "123456"
+    },
+    {
+      "email": "xwt@qq.com",
+      "password": "b99aadf3bcfabbd30d946211bc59c51a198376283a683ff443b2400fd7635440",
+      "name": "XWT",
+      "id": 4
+    }
+  ]
+}

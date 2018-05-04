@@ -1,0 +1,22 @@
+{
+   "price": 11,
+ 
+    "description": "Jennifer Worth came from a sheltered background when she became a midwife in the Docklands in the 1950s. The conditions in which many women gave birth just half a century ago were horrifying, not only because of their grimly impoverished surroundings, but also because of what they were expected to endure.", 
+  
+    "id": "book-1", 
+    "images": [
+        "img/books/book-1.jpg", 
+        "img/books/book-1-1.jpg",  
+        "img/books/book-1-2.jpg"
+    ], 
+
+    "name": "Call the Midwife",
+
+    "isbn": "9780753823835",
+
+    "publisher": "W&amp;N",
+
+    "date": "3/6/2008",   
+
+    "category": "General Biography,Medicine"
+}

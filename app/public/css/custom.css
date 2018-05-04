@@ -1,0 +1,323 @@
+
+.btnsell{
+  border-top: 30px;
+}
+
+.selltable{
+  padding: 0px 50px;
+}
+
+
+.payment{
+margin-left: 50px;
+margin-right: 50px;
+}
+
+.welcome{
+font-variant: small-caps;
+}
+
+.bookdetail1{
+ font-variant: small-caps;
+}
+.bookdetail2{
+font-style: oblique;
+}
+.bookdetail3{
+font-variant: small-caps;
+font-weight: bold;
+}
+
+.comment{
+  font-size: 15px;
+}
+.userfont{
+  font-variant: small-caps;
+}
+
+.btndonate{
+margin-left: 18px;
+
+}
+
+.pagination{
+margin-left: 18px;
+}
+
+.donateframe{
+  padding: 0px;
+}
+
+.donatetable{
+
+margin-left: 280px;
+
+}
+
+.child{
+  display: block;
+  float: right;
+}
+
+.sellinfo{
+
+   font-style: oblique;
+}
+
+.sellimg{
+  text-align: left;
+  margin-left: 50px;
+}
+
+.modalpic{
+text-align: center;
+}
+.modalsnip{
+font-style: oblique;
+}
+
+.modal-title{
+font-variant: small-caps;
+
+}
+
+ .btnfont{
+  font-variant: small-caps;
+ }
+
+ .btnposition{
+   text-align:center;
+ }
+
+.indexname
+{
+
+ font-style: oblique;
+  font-variant: small-caps;
+}
+
+.index{
+margin-left: 100px;
+
+}
+
+.select{
+margin-right: 50px;
+margin-left: 0px;
+}
+
+.sort{
+margin: 0px;
+padding-top: 8px;
+padding-left: 0px;
+padding-right: 0px;
+}
+
+.shoppingcart{
+
+  padding-left: 0px;
+}
+
+
+.pull-left{
+ margin: 0px;
+padding: 0px;
+}
+.nav-tabs{
+
+  padding-top: 70px;
+
+}
+
+.frame {
+  margin-top: 60px;
+  margin-left: 300px;
+}
+
+.jumbotron {
+  margin: 40px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.navbar-inverse {
+  background-color: #e6e9ed;
+}
+
+
+body {
+  padding-top: 40px;
+  background-color: #f5f7fa;
+}
+
+section {
+  overflow: auto;
+}
+
+
+
+.center {
+  text-align: center;
+}
+
+.center h1 {
+  margin-bottom: 10px;
+}
+
+/* typography */
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1;
+}
+
+h1 {
+  font-size: 3em;
+  letter-spacing: -2px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.2em;
+  letter-spacing: -1px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-weight: normal;
+  color: #777;
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.7em;
+}
+
+/* header */
+
+#logo {
+  float: left;
+  margin-right: 10px;
+  font-size: 1.7em;
+  color: #aab2bd;
+  letter-spacing: -1px;
+  padding-top: 9px;
+  font-weight: bold;
+  font-style: oblique;
+}
+
+#logo:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+footer {
+  margin-top: 45px;
+  padding-top: 5px;
+  border-top: 1px solid #eaeaea;
+  color: #777;
+}
+
+footer a {
+  color: #555;
+}
+
+footer a:hover {
+  color: #222;
+}
+
+footer small {
+  float: left;
+}
+
+footer ul {
+  float: right;
+  list-style: none;
+}
+
+footer ul li {
+  float: left;
+  margin-left: 15px;
+}
+
+/* app css stylesheet */
+.books {
+  list-style: none;
+}
+
+.thumb {
+  float: left;
+  margin: -0.5em 1em 1.5em 0;
+  padding-bottom: 1em;
+  height: 100px;
+  width: 100px;
+}
+
+.books li {
+  clear: both;
+  height: 115px;
+  padding-top: 15px;
+}
+
+/** Detail View **/
+img.book {
+  float: left;
+  border: 1px solid black;
+  margin-right: 3em;
+  margin-bottom: 2em;
+  background-color: white;
+  padding: 2em;
+  height: 400px;
+  width: 320px;
+}
+
+ul.book-thumbs {
+  margin: 0;
+  list-style: none;
+}
+
+ul.book-thumbs li {
+  border: 1px solid black;
+  display: inline-block;
+  margin: 1em;
+  background-color: white;
+}
+
+ul.book-thumbs img {
+  height: 100px;
+  width: 80px;
+  padding: 1em;
+}
+
+ul.specs {
+  clear: both;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+ul.specs > li{
+  display: inline-block;
+  width: 200px;
+  vertical-align: top;
+}
+
+ul.specs > li > span{
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+ul.specs dt {
+  font-weight: bold;
+}
+
+
+
+
+@font-face {
+    font-family: 'Glyphicons Halflings';
+
+    src: url('../fonts/glyphicons-halflings-regular.eot');
+    src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+}
+
+
+

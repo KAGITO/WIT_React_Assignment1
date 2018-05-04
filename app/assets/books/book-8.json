@@ -1,0 +1,23 @@
+{
+ "price": 18,
+    
+    "description": "Amber Lamont is a normal sixteen-year-old. She spends most of her time online, where she can avoid her beautiful, aloof parents and their weird friends.But when a shocking encounter reveals a horrifying secret, Amber is forced to go on the run. Killer cars, vampires, undead serial killers and red-skinned, horned demons - Amber hurtles from one threat to the next.", 
+    
+    "id": "book-8", 
+    "images": [
+         "img/books/book-8.jpg", 
+        "img/books/book-8-1.jpg", 
+         
+        "img/books/book-8-2.jpg"
+    ], 
+    "name": "Demon Road", 
+    
+
+    "isbn": "9780008140861",
+
+    "publisher": "HarperCollins Children's Books",
+
+    "date": "8/27/2015",   
+
+    "category": "New Releases, Teenage Fiction 12 to 15 Years"
+}

@@ -1,0 +1,24 @@
+{
+    "price": 12,
+    
+ 
+    "description": "Up in the attic, four secrets are hidden. Four blonde, beautiful, innocent little secrets, struggling to stay alive. Chris, Cathy, Cory and Carrie have perfect lives - until a tragic accident changes everything. Now they must wait, hidden from view in their grandparents' attic, as their mother tries to figure out what to do next.", 
+   
+    "id": "book-2", 
+    "images": [
+        "img/books/book-2.jpg", 
+        "img/books/book-2-1.jpg", 
+         
+        "img/books/book-2-2.jpg"
+    ],
+     
+    "name": "Flowers in the Attic", 
+
+    "isbn": "9780007436828",
+
+    "publisher": "Harper Voyager",
+
+    "date": "9/1/2011",   
+
+    "category": "Categories Crime Fiction, Teenage Fiction 12 to 15 Years"
+}

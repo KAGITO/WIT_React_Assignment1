@@ -1,0 +1,21 @@
+{
+   "price": 14,
+   
+    "description": "John Green, author of The Fault in our Stars Eleanor is the new girl in town, and she's never felt more alone. All mismatched clothes, mad red hair and chaotic home life, she couldn't stick out more if she tried. Then she takes the seat on the bus next to Park. Quiet, careful and - in Eleanor's eyes - impossibly cool.", 
+   
+    "id": "book-4", 
+    "images": [
+        "img/books/book-4.jpg", 
+        "img/books/book-4-1.jpg",
+        "img/books/book-4-2.jpg"
+    ], 
+    "name": "Eleanor & Park", 
+   
+   "isbn": "9781409157250",
+
+    "publisher": "Orion",
+
+    "date": "7/7/2014",   
+
+    "category": "Teenage Fiction 12 to 15 Years"
+}

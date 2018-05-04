@@ -1,0 +1,22 @@
+{
+    "price": 19,
+   
+    "description": "In the world of Divergent, society is divided into five factions - Candor, Abnegation, Dauntless, Amity and Erudite. Every year, all sixteen-year-olds must select the faction to which they will devote the rest of their lives. For Beatrice Prior, the decision is between staying with her family and being who she really is. Her choice shocks everyone, including herself. ", 
+    
+    "id": "book-9", 
+    "images": [
+       "img/books/book-9.jpg", 
+        "img/books/book-9-1.jpg", 
+         
+        "img/books/book-9-2.jpg"
+    ], 
+    "name": "DIVERGENT", 
+
+    "isbn": "9780007536726",
+
+    "publisher": "HarperCollins Children's Books",
+
+    "date": "11/21/2013",   
+
+    "category": "   Teenage Fiction 12 to 15 Years, Young Adult Fiction"
+}

@@ -1,0 +1,21 @@
+{
+   "price": 15,
+    
+    "description": "Deeply romantic and extraordinarily suspenseful,Twilight has enraptured millions of readers since its first publication in 2005 and has become a modern classic, redefining genres within young adult literature and inspiring a phenomenon that has had readers yearning for more. The novel was a Sunday Times and New York Times bestseller.", 
+    
+    "id": "book-5", 
+    "images": [
+        "img/books/book-5.jpg", 
+        "img/books/book-5-1.jpg", 
+        "img/books/book-5-2.jpg"
+    ], 
+    "name": "Twilight", 
+
+    "isbn": "9780349002484",
+
+    "publisher": "ATOM",
+
+    "date": "10/6/2015",   
+
+    "category": "Coming Soon, Teenage Fiction 12 to 15 Years"
+}

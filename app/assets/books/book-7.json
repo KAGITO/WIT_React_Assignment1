@@ -1,0 +1,22 @@
+{
+  "price": 17,
+    
+    "description": "In the dark, filthy salt mines of Endovier, an eighteen-year-old girl is serving a life sentence. She is a trained assassin, the best of her kind, but she made a fatal mistake. She got caught. Young Captain Westfall offers her a deal: her freedom in return for one huge sacrifice. Celaena must represent the prince in a to-the-death tournament - fighting the most gifted thieves and assassins in the land.", 
+   
+    "id": "book-7", 
+    "images": [
+        "img/books/book-7.jpg", 
+        "img/books/book-7-1.jpg", 
+         
+        "img/books/book-7-2.jpg"
+    ], 
+    "name": "Throne of Glass", 
+
+    "isbn": "9781408832332",
+
+    "publisher": "Bloomsbury",
+
+    "date": "8/2/2012",   
+
+    "category": "Teenage Fiction 12 to 15 Years, Bestselling Teen and Young Adult Books"
+}

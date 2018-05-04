@@ -1,0 +1,21 @@
+{
+   "price": 13,
+    
+    "description": "A Divergent Collection, a companion volume that includes four pre-Divergent stories told from Tobias Eaton's point of view.DIVERGENT and INSURGENT were blockbuster movies in 2014 and 2015.Readers first encountered Tobias Eaton as Four in Divergent. His voice is an integral part of Allegiant.", 
+    
+    "id": "book-3", 
+    "images": [
+        "img/books/book-3.jpg", 
+        "img/books/book-3-1.jpg", 
+        "img/books/book-3-2.jpg"
+    ], 
+    "name": "Four", 
+
+    "isbn": "9780007550142",
+
+    "publisher": "HarperCollins Children's Books",
+
+    "date": "8/27/2015",   
+
+    "category": "New Releases, Teenage Fiction 12 to 15 Years"
+}
